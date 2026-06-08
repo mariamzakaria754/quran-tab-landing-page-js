@@ -1,0 +1,17 @@
+{
+  "name": "quran-tab-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.99.0",
+    "vite": "^8.0.5"
+  }
+}
